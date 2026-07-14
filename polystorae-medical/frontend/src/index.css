@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* In v4, you can still use @apply for custom styles */
+body {
+  @apply bg-slate-50 text-slate-900;
+}
